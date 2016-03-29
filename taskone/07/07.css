@@ -282,6 +282,8 @@ ul {
 /*以下是四个竖图*/
 
 #pic {
+	display: flex;
+	justify-content: center;
 	height: 600px;
 	background-color: #f8f8f8;
 	padding-left: 8%;
